@@ -1,4 +1,4 @@
-# Android-Studio-Project With NodeJs Backend
+# Android-Business-Search-System With NodeJs Backend
 
 This project is made using Android Studio and NodeJs for backend API calling to Yelp.
 
